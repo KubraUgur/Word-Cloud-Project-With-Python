@@ -10,6 +10,4 @@ This script generates a word cloud that reflects motivational words and phrases.
 
 To run this project, you’ll need to install the following dependencies:
 ```bash
-pip install wordcloud matplotlib numpy
-
-##aaaa
+pip install wordcloud matplotlib numpy  ``` 
