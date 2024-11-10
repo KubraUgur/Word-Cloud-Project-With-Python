@@ -9,11 +9,11 @@ This script generates a word cloud that reflects motivational words and phrases.
 # Code Details
 The main script:
 
-Defines Word Frequencies: Each word's frequency is set in the word_freq dictionary.
-Customizes Colors: Colors are applied to each word based on the color_function.
-Generates the Word Cloud: The WordCloud function generates an image based on frequencies and color preferences.
-Displays the Word Cloud: The word cloud is displayed in a plot with matplotlib.
-Saves the Output: The generated word cloud image is saved as wordcloud2.png.
+- **Defines Word Frequencies: Each word's frequency is set in the word_freq dictionary.
+- **Customizes Colors: Colors are applied to each word based on the color_function.
+- **Generates the Word Cloud: The WordCloud function generates an image based on frequencies and color preferences.
+- **Displays the Word Cloud: The word cloud is displayed in a plot with matplotlib.
+- **Saves the Output: The generated word cloud image is saved as wordcloud2.png.
 
 # Key Variables
 word_freq: Contains words and their frequency.
