@@ -6,7 +6,7 @@ This project generates a custom word cloud based on predefined word frequencies 
 
 This script generates a word cloud that reflects motivational words and phrases. Each word has a specific frequency and color, representing different aspects of success and dedication. The color scheme is customizable, making it easy to adapt the visual theme to your preferences.
 
-##Code Details
+# Code Details
 The main script:
 
 Defines Word Frequencies: Each word's frequency is set in the word_freq dictionary.
@@ -15,7 +15,7 @@ Generates the Word Cloud: The WordCloud function generates an image based on fre
 Displays the Word Cloud: The word cloud is displayed in a plot with matplotlib.
 Saves the Output: The generated word cloud image is saved as wordcloud2.png.
 
-##Key Variables
+# Key Variables
 word_freq: Contains words and their frequency.
 color_function: A function that assigns a color to each word based on its name.
 
